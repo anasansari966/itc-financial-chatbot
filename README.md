@@ -63,9 +63,10 @@ A Retrieval-Augmented Generation (RAG) powered chatbot specialized in analyzing 
 
 **Sample Queries**:
 - "What was ITC's revenue growth in FY 2023?"
-- "Compare ESG initiatives between 2022 and 2023"
+- "What was ITC's Gross Revenue and Profit After Tax (PAT) for the reporting year 2022?"
 - "Show me the dividend policy from last year's report"
 - "Explain the key risk factors mentioned in latest filing"
+- "How much of ITC's energy comes from renewable sources?"
 
 **Response Features**:
 - Financial figures with proper units (crore/lakhs/percent)
