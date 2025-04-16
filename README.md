@@ -1,4 +1,3 @@
-```markdown
 # ITC Financial Report Analysis Chatbot 🤖📈
 
 A Retrieval-Augmented Generation (RAG) powered chatbot specialized in analyzing ITC Limited's financial reports and SEC filings. Built with cutting-edge AI technologies for accurate financial insights.
