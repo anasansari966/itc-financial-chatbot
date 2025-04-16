@@ -1,0 +1,16 @@
+beautifulsoup4
+requests
+pdfplumber
+python-dotenv
+langchain
+langchain-huggingface
+langchain-community
+langchain-core
+langchain-chroma
+langchain-groq
+langchain-text-splitters
+chromadb
+sentence-transformers
+streamlit
+groq
+python-dotenv
