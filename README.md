@@ -92,7 +92,7 @@ itc-financial-chatbot/
 
 Create `.env` file with:
 ```ini
-GROQ_API_KEY=your_groq_api_key_here
+GROQ_API_KEY=gsk_*****
 ```
 
 ## Acknowledgments 🏆
@@ -101,14 +101,3 @@ GROQ_API_KEY=your_groq_api_key_here
 - LangChain for RAG architecture
 - Hugging Face for transformer models
 - Streamlit for rapid UI development
-
-```
-
-This README provides:
-1. Clear technology differentiation
-2. Business-friendly feature highlights
-3. Precise technical documentation
-4. End-to-end workflow visibility
-5. Enterprise-grade security notice
-6. Professional formatting with emoji visualization
-7. Comprehensive setup/usage guidance
